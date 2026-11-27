@@ -16,10 +16,10 @@ Version: 3.0.0-beta
 Architecture: amd64
 Maintainer: advplyr
 Filename: ./audiobookshelf_3.0.0-beta_amd64.deb
-Size: 33696300
-MD5sum: 0daf4900f7ed675dc0ce5be8387c60aa
-SHA1: 0a994ce3ec36a9ba9b27bc9a14de44dd554037c6
-SHA256: 679547dd71c3751a44c3968ac38c334933b8f9f95f02223aac15d17f51208f5b
+Size: 33695348
+MD5sum: 7cf876453ff7dc207343fbd0c85150ff
+SHA1: 637d07c03f445cde5bb8ce7ba64fee9cc7ac15d4
+SHA256: 5a2d2725940662e442affeb9c803d4af16fc804d81745eef4939b8e96ab34587
 Section: base
 Priority: optional
 Description: Self-hosted audiobook and podcast server
